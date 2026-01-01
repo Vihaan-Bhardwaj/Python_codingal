@@ -1,7 +1,7 @@
 
 ###  NESTED LIST ADDITION ###
 
-"""t = [[51, 36, 42], [65, 78, 92], [22, 69, 14]]
+t = [[51, 36, 42,[2, 3]], 4, 99, [65, 78, 92], [22, 69, 14]]
 def nest(t):
     total = []
     for i in t:
@@ -14,7 +14,7 @@ def nest(t):
 
 
 
-nest(t)"""
+nest(t)
 
 ### CUMMULATIVE ADDITION OF SIMPLE LIST ###
 
